@@ -1,7 +1,7 @@
 # Deepak's SEO / AEO / GEO Audit Skill - Windows Installer
-# Run with: irm https://raw.githubusercontent.com/YOUR_USERNAME/deepak-seo-audit/main/install.ps1 | iex
+# Run with: irm https://raw.githubusercontent.com/deepaksamele/deepak-seo-audit/main/install.ps1 | iex
 
-$RepoUrl = "https://github.com/YOUR_USERNAME/deepak-seo-audit"
+$RepoUrl = "https://github.com/deepaksamele/deepak-seo-audit"
 $SkillDir = "$env:USERPROFILE\.claude\skills\seo-audit"
 
 Write-Host "================================================" -ForegroundColor Cyan
