@@ -63,7 +63,7 @@ cd deepak-seo-audit
 ./install.sh
 ```
 
-> ⚠️ Replace `YOUR_USERNAME` with your actual GitHub username after you create the repo.
+> ⚠️ Replace `YOUR_USERNAME` with your actual GitHub deepaksamele after you create the repo.
 
 ---
 
