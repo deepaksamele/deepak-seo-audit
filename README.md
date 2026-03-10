@@ -46,24 +46,24 @@ Just give Claude your website URL and it will generate a **full professional PDF
 ### One-Command Install (Mac / Linux)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/deepak-seo-audit/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/deepaksamele/deepak-seo-audit/main/install.sh | bash
 ```
 
 ### Windows
 
 ```powershell
-irm https://raw.githubusercontent.com/YOUR_USERNAME/deepak-seo-audit/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/deepaksamele/deepak-seo-audit/main/install.ps1 | iex
 ```
 
 ### Manual Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/deepak-seo-audit.git
+git clone https://github.com/deepaksamele/deepak-seo-audit.git
 cd deepak-seo-audit
 ./install.sh
 ```
 
-> ⚠️ Replace `YOUR_USERNAME` with your actual GitHub deepaksamele after you create the repo.
+> ⚠️ Replace `deepaksamele` with your actual GitHub deepaksamele after you create the repo.
 
 ---
 
@@ -117,7 +117,7 @@ deepak-seo-audit/
 ## 🔧 Uninstall
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/deepak-seo-audit/main/uninstall.sh | bash
+curl -fsSL https://raw.githubusercontent.com/deepaksamele/deepak-seo-audit/main/uninstall.sh | bash
 ```
 
 ---
