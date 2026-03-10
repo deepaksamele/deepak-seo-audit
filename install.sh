@@ -6,7 +6,7 @@ set -euo pipefail
 
 main() {
     SKILL_DIR="${HOME}/.claude/skills/seo-audit"
-    REPO_URL="https://github.com/YOUR_USERNAME/deepak-seo-audit"
+    REPO_URL="https://github.com/deepaksamele/deepak-seo-audit"
 
     echo "════════════════════════════════════════════════"
     echo "║   Deepak's SEO / AEO / GEO Audit Skill      ║"
